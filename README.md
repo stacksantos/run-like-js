@@ -20,4 +20,6 @@ Step 3 : Open up the folder in your IDE (I use VSCode so I can right click the f
 
 Step 4 : In your terminal all you have to do is type "npm start" and it will build + start the development server.  Now head to localhost:1234 (or whichever one it specifies) and you have a live Javascript code editor!
 
+Step 5 : Now head to the src folder and you'll see a RUN-LIKE.js file.  That's where you'll tinker to your hearts content.
+
 Happy coding!
